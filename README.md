@@ -5,4 +5,6 @@
 - James
 - Rosalind
 
-This is the master branch working on a merge conflict....
+Something from test branch that will be a merge conflict...
+
+Some other thing happening.
