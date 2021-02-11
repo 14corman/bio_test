@@ -4,6 +4,3 @@
 - Francis
 - James
 - Rosalind
-
-This is a merge conflict going to happen on master........
-
